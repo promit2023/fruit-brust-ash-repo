@@ -1,0 +1,19 @@
+ .team-sec{
+    background-image: url('../images/team.png');
+    background-color:  rgba(18, 18, 18, 0.70);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: darken;
+}
+.svg{
+    background-image: ;
+}
+
+/* .team-sec::after{
+  content: '';
+  position: absolute;
+  width: 100%;
+  background-color: rgba(18, 18, 18, 0.70);
+
+}  */
